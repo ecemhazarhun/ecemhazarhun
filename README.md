@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ecemhazarhun
 - 👀 I’m interested in game development and game art :)
-- 🌱 I’m currently learning react native and unity.
 
 https://www.linkedin.com/in/ecemhazarhun/
 <!---
